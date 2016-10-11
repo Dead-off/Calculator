@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<simpleCalculator>
+    <expressionResults>
+        <expressionResult>
+            <result>378.0</result>
+        </expressionResult>
+        <expressionResult>
+            <result>-1075.0</result>
+        </expressionResult>
+    </expressionResults>
+</simpleCalculator>

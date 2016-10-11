@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpleCalculator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Calculator.xsd">
+    <expressions>
+        <expression>
+            <arg>1</arg>
+        </expression>
+    </expressions>
+</simpleCalculator>
+

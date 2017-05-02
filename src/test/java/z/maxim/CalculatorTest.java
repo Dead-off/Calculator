@@ -31,7 +31,7 @@ public class CalculatorTest extends Assert {
         expressions.add(expressionTwo);
 
         List<Double> result = new ArrayList<>();
-        result.addAll(Arrays.asList(28.0, -1.34375));
+        result.addAll(Arrays.asList(28.0, -1.44375));
         assertEquals(calculator.calculate(expressions), result);
     }
 

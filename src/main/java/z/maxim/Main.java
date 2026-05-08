@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class Main {
-//commeniit
+//commeniiiit
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("you must get in first arg path to directory with Calculator.xsd and sampleCorrect.xml files");
